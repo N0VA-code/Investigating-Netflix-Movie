@@ -35,11 +35,3 @@ To begin analyzing the Netflix dataset:
 2. Open the `netflix_data.csv` file to familiarize yourself with the data structure.
 3. Utilize Python and libraries such as Pandas for data manipulation and analysis, and Matplotlib/Seaborn for data visualization.
 4. Explore the dataset to confirm or refute the initial hypothesis and uncover additional insights into content trends on Netflix.
-
-## Contribution
-
-Contributions to the analysis are welcome. Feel free to fork this repository, explore additional hypotheses, enhance the data cleaning process, or improve the visualizations. Submit a pull request with your suggested changes or additions.
-
-## Note
-
-Please note that the dataset contains null values and some outliers. While handling these is beyond the scope of this initial project, addressing them may provide more accurate insights and is recommended for further exploration.
